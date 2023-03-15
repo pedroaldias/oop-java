@@ -7,7 +7,7 @@ public class Main {
         Moto m1 = new Moto();
         Moto m2 = new Moto();
 
-        c1.setPlaca("RGU5C27");
+        c1.setPlaca("RGU5C28");
         c2.setPlaca("WHY7838");
         m1.setPlaca("OWH1447");
         m2.setPlaca("SAA5916");
