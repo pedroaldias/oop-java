@@ -13,6 +13,7 @@ public abstract class Veiculo {
                 System.out.print("Informe um valor inteiro entre 50 e 1000 para a potência: ");
                 potencia = input.nextInt();
                 this.potencia = potencia;
+                input.close();
             }
         }
     }
